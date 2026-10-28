@@ -1,0 +1,8 @@
+{
+  "name": "Sunrise Home Services",
+  "description": "Sunrise Home Services offers plumbing, electrical, AC repair, and home renovation services in Pune. Fast, reliable, and affordable solutions.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
