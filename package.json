@@ -23,7 +23,6 @@
     "tsx": "^4.23.15"
   },
   "devDependencies": {
-    "@rollup/rollup-win32-x64-msvc": "^4.66.0",
     "@types/bcryptjs": "^2.4.6",
     "@types/better-sqlite3": "^9.6.0",
     "@types/cookie-parser": "^1.4.10",
